@@ -89,7 +89,7 @@ Chinatown also shows the similar pattern as Petronas: higher numbers of devices 
 
 To check if these observations are influenced by the trend of devices in Kuala Lumpur as a whole, I also visualized locations of devices by hour. In the map below, you can see more devices in the morning compared to the afternoon.
 
-![image](https://github.com/koito19960406/GPS_analysis/blob/main/output/device_hour.png)
+![image](https://github.com/koito19960406/GPS_analysis/blob/main/output/device_hour.png =100x20)
 
 # 5.	Conclusion
 The analysis so far highlighted the following characteristics of the selected areas:
@@ -100,6 +100,3 @@ From these observations and the overall changes of locations of devices in Kuala
 1.	More people are Kuala Lumpur in the morning, which influences the fluctuation of number of devices in the selected areas, that 
 2.	People tend to prefer urbanized attractions rather than natural ones in Kuala Lumpur
 3.	People tend to prefer vehicles as a mode of transport over walking in Kuala Lumpur. 
-
-
-![image](https://user-images.githubusercontent.com/61777450/110736966-820c0400-8267-11eb-9d23-fbb5ee93ae62.png)
