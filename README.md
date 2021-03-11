@@ -1,10 +1,5 @@
 # Story telling
-## Given the location data set, take any three tourist places in Kula Lumpur and tell us the story on tourism and 
-
-
-
-
-ors. State out the assumptions.
+## In this exercise, I selected three tourist places in Kula Lumpur and created a story on tourism and visitors from GPS point data
 
 
 # 1.	Introduction
