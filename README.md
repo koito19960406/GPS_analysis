@@ -89,7 +89,7 @@ Chinatown also shows the similar pattern as Petronas: higher numbers of devices 
 
 To check if these observations are influenced by the trend of devices in Kuala Lumpur as a whole, I also visualized locations of devices by hour. In the map below, you can see more devices in the morning compared to the afternoon.
 
-![](https://github.com/koito19960406/GPS_analysis/blob/main/output/device_hour.png =100x20)
+![](https://github.com/koito19960406/GPS_analysis/blob/main/output/device_hour.png)
 
 # 5.	Conclusion
 The analysis so far highlighted the following characteristics of the selected areas:
