@@ -90,7 +90,8 @@ To check if these observations are influenced by the trend of devices in Kuala L
 The analysis so far highlighted the following characteristics of the selected areas:
 1.	Concentration of devices in the morning: throughout the areas, I was able to observe higher numbers of devices in the morning and lower in the afternoon. 
 2.	Concentration of devices in urbanized areas: compared to the Perdona Botanic Garden, Petronas twin towers’ area and Chinatown had higher number of devices.
-3.	Concentration of devices along the major roads: This was observed especially in Chinatown. Less devices were recorded in the main market street. 
+3.	Concentration of devices along the major roads: This was observed especially in Chinatown. Less devices were recorded in the main market street.
+ 
 From these observations and the overall changes of locations of devices in Kuala Lumpur, I hypothesize the following:
 1.	More people are Kuala Lumpur in the morning, which influences the fluctuation of number of devices in the selected areas, that 
 2.	People tend to prefer urbanized attractions rather than natural ones in Kuala Lumpur
